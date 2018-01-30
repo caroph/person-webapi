@@ -3,7 +3,7 @@
 Um projeto para testes de webapi com python e flask.  
 Ainda em desenvolvimento ...
 
-## GET /persons/
+### GET /persons/
 - Retorno:
 ```
 [
@@ -25,7 +25,7 @@ Ainda em desenvolvimento ...
 ]
 ```
 
-## GET /persons/1
+### GET /persons/1
 - Retorno
 ```
 {
@@ -35,7 +35,7 @@ Ainda em desenvolvimento ...
 }
 ```
 
-## POST /persons/
+### POST /persons/
 - Envio
 ```
 {
@@ -51,7 +51,7 @@ Ainda em desenvolvimento ...
 }
 ```
 
-## PUT/PATCH /persons/1
+### PUT/PATCH /persons/1
 - Envio
 ```
 {
@@ -67,7 +67,7 @@ Ainda em desenvolvimento ...
 }
 ```
 
-## DELETE /persons/1
+### DELETE /persons/1
 - Retorno
 ```
 {
